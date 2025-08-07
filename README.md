@@ -5,4 +5,4 @@ R code files are included for
 - simulating and mapping cost per outage hour
 - simulating policy scenarios and relative benefits
 
-RDS Data files are provided for completness of the code. The full data sample used in the study contains purchased data from a subscription and is not provided here. 
+RDS Data files are provided for completeness of the code. The full data sample used in the study contains purchased data from a subscription and is not provided here. 
